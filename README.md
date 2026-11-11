@@ -1,4 +1,4 @@
-# 🎯 SIH PPT Maker
+#  SIH PPT Maker
 
 **AI-Powered Presentation Generator specifically designed for Smart India Hackathon (SIH) teams.**
 
@@ -6,10 +6,10 @@ Turn any SIH problem statement and solution into a 7-slide presentation ready fo
 
 ---
 
-## 🚀 Quick Start
+##  How to Start
 
 The app is currently running live at:
-👉 **[http://127.0.0.1:5173](http://127.0.0.1:5173)**
+ **[http://127.0.0.1:5173](http://127.0.0.1:5173)**
 
 To start the dev server anytime:
 ```bash
@@ -24,7 +24,7 @@ npm run build
 
 ---
 
-## 🏆 Key Features
+##  Key Features
 
 1. **Official SIH 7-Slide Structure:**
    - **Slide 1:** Title & Team Information (SIH Hackathon Branding, Track, Prototype Mode)
