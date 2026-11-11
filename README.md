@@ -1,4 +1,3 @@
-# HELPFARM
 # SIH PitchDeck AI
 
 A small, local web app that turns a Smart India Hackathon (SIH) problem statement into a concise, editable PowerPoint using the supplied NMIET SIH 2026 template. It uses Ollama for locally hosted language models; TinyLlama is the default model for this project.
